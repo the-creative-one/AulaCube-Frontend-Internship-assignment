@@ -14,7 +14,7 @@ iNotebook is a web application for managing your notes. It allows you to create,
 
 - Create, Edit, and Delete Notes
 - Set Priorities for Notes
-- User Authentication (if implemented)
+- User Authentication 
 
 ## Technologies Used
 
