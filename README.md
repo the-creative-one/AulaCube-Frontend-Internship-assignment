@@ -35,7 +35,7 @@ iNotebook is a web application for managing your notes. It allows you to create,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/.git
+   git clone https://github.com/your-username/AulaCube-Frontend-Internship-assignment.git
    cd inotebook
 
 2. Install dependencies for server :
