@@ -1,0 +1,1 @@
+# AulaCube-Frontend-Internship-assignment
